@@ -8,17 +8,17 @@ export default function Home() {
     <div>
       <Head>
         <title>Frontend Mentor | QR code component</title>
-        <Link
+        <link
           rel="icon"
           sizes="32x32"
-          href="../images/favicon-32x32.png"
-        ></Link>
+          href="favicon-32x32.png"
+        ></link>
       </Head>
       <div>
         <div className="container">
           
             <img
-            src="../images/image-qr-code.png" alt=""
+            src="image-qr-code.png" alt=""
             />
             <h1>Improve your front-end skills by building projects</h1>
             <p>
