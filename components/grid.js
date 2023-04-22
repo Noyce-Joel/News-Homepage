@@ -33,7 +33,7 @@ function grid() {
           really fulfilling its promise?{" "}
         </p>
         <a>
-          <button class="btn">READ MORE</button>
+          <button className="btn">READ MORE</button>
         </a>
       </div>
 

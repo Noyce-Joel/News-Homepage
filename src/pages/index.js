@@ -13,9 +13,9 @@ export default function Home() {
         <title>Frontend Mentor | QR code component</title>
         <link rel="icon" sizes="32x32" href="favicon-32x32.png"></link>
       </Head>
-        <header>
+        
         <Header />
-        </header>
+       
         <main>
         <Grid />
       </main>
